@@ -3,7 +3,7 @@
 
 int main()
 {
-    int num, iter = 0, sumarray[10] = {}, sum, tablesum;
+    int num, iter = 0, sum = 0, tablesum;
     bool correct = false;
     while (correct == false){
         printf("Enter a number between 0 and 10: ");
